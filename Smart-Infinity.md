@@ -1,7 +1,7 @@
 # Smart-Infinity: Enhancing LLM Training with Near-Storage Processing
 
 * [Source](https://arxiv.org/html/2403.06664v1):arXiv:2403.06664v1 11 Mar 2024
-* [HPCA 2024 Award Winners: Best paper Award - Honorable Mention](https://hpca-conf.org/2024/)
+* [HPCA 2024 Best paper Award Winner - Honorable Mention](https://hpca-conf.org/2024/)
 * [Smart-Infinity: Fast Large Language Model Training using Near-Storage Processing on a Real System](https://github.com/AIS-SNU/smart-infinity)
 
 
